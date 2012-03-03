@@ -12,10 +12,10 @@ q - The next shot will be a multiball shot. First shoots 2 "preview" balls that 
 
 
 Objective:
-Kill all the red things. The middle shooter will shoot the bullets and you must draw mirrors to reflect the balls to the enemy. When a ball hits a mirror it breaks it. You have a limited amount of mirrors that can be active at a time. 
+Kill all the red things. The middle shooter will shoot the bullets and you must draw mirrors to reflect the balls to the enemy. When a ball hits a mirror it breaks it. You have a limited amount of mirrors that can be active at a time. You lose a life if a ball leaves the screen.
 
 
 Written in LWJGL and Box2D.
 
-This code is by far the worst thing written in the world.
+This code is by far the worst thing written in the world cause its a prototype.
 Please don't look at what I do to delete from an ArrayList! I honestly don't know what I was thinking at 5AM in the morning -_-
