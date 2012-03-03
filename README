@@ -1,0 +1,21 @@
+Game Prototype for Game Design class at Rutgers University
+
+The idea for this was to create a puzzle game based on light/lasers. Rather than doing that I tried it with shooting a ball and you have to reflect it into an enemy. 
+
+Controls:
+Left Click - Drag and Let go to create a mirror.
+Right Click - Create a small short vortex that will pull the ball to your cursor.
+
+d - Turn off the arrow that will tell you where the next ball will go. Makes the game harder.
+
+q - The next shot will be a multiball shot. First shoots 2 "preview" balls that will tell you where the balls will shoot. Then, you set up your mirrors and it shoots the real bullets.
+
+
+Objective:
+Kill all the red things. The middle shooter will shoot the bullets and you must draw mirrors to reflect the balls to the enemy. When a ball hits a mirror it breaks it. You have a limited amount of mirrors that can be active at a time. 
+
+
+Written in LWJGL and Box2D.
+
+This code is by far the worst thing written in the world.
+Please don't look at what I do to delete from an ArrayList! I honestly don't know what I was thinking at 5AM in the morning -_-
